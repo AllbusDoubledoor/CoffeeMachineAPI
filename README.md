@@ -1,5 +1,6 @@
 # CoffeeMachineAPI
 Solution for an exercise about REST-service that emulates a coffee machine:
+
 User can request a cup of coffee, coffee machine should return the cup and update it's state in accordance with ammounts of materials left
 User can add water, milk, beans to the machine or perform machine cleaning
 
